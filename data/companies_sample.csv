@@ -1,0 +1,6 @@
+company_id,company_name,city,industry,employees,founded,description
+1,Hollmann Spedition GmbH,Bremen,Logistics,420,1968,Family-owned freight forwarder with 140 trucks. Tours are still planned in Excel and delivery notes are on paper. Opened a second depot near Hanover in 2026 and is hiring dispatchers.
+2,Wendtland Metallbau GmbH,Chemnitz,Metal Processing,310,1991,Sheet metal and welding supplier for machine builders. Production planning runs on an ERP system introduced in 2004. Management announced plans to double laser-cutting capacity by 2027.
+3,Kerschbaum Lebensmittel GmbH,Augsburg,Food Production,650,1955,Producer of chilled ready meals for supermarket chains. Quality documentation is kept in paper binders. Retail customers now require digital traceability for every batch.
+4,Brakel Kunststofftechnik GmbH,Lüdenscheid,Contract Manufacturing,280,1983,Injection moulding of plastic parts for the automotive and household sectors. Orders arrive by email and fax and are typed in manually. A new managing director took over in early 2026.
+5,Sanders Großhandel KG,Münster,Wholesale,530,1949,Wholesaler for building materials with eight branches. Stock levels are reconciled once a month by hand. Struggles with rising stock-outs and has started looking for a new inventory system.
