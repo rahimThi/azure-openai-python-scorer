@@ -46,7 +46,7 @@ Answer only with JSON in this format:
  "key_signal": "<max 20 words>", "reason": "<one or two sentences>"}"""
 
 
-def score_company(company: dict) -> dict:
+def score_company(company):
     """Send one company to the LLM and return its JSON answer as a dict."""
     user_prompt = (
         f"Name: {company['company_name']}\n"
