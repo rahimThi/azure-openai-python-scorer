@@ -15,7 +15,7 @@ import time
 from dotenv import load_dotenv
 from openai import AzureOpenAI
 
-# 1. Settings: read from the .env file (never hard-code your API key)
+# 1. Settings: read from the .env file
 load_dotenv()
 client = AzureOpenAI(
     azure_endpoint=os.environ["AZURE_OPENAI_ENDPOINT"],
